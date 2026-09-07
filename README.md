@@ -27,10 +27,12 @@ This is a Python-based voice assistant that records audio, transcribes it into t
 
 ## Install the required dependencies:
 
-Create a .env file in the project root and add your <vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'> keys</vscode_annotation>API:
+** Create a .env file in the project root and add your**
+- OPENAI_API_KEY="your-openai-api-key"
+- GOOGLE_API_KEY="your-google-api-key"
 
 ## Usage
-** Run the script: **
+**Run the script:**
 
 Speak into your microphone when prompted.
 
