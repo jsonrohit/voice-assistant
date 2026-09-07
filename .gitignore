@@ -31,3 +31,7 @@ faidx/
 .idea/
 .DS_Store
 Thumbs.db
+
+# audio Files
+*.wav
+*.mp3
