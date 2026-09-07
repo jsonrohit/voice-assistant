@@ -21,7 +21,7 @@ This is a Python-based voice assistant that records audio, transcribes it into t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/jsonrohit/voice-assistant.git
    cd voice-assistant
 
 
