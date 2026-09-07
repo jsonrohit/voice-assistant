@@ -27,7 +27,7 @@ This is a Python-based voice assistant that records audio, transcribes it into t
 
 ## Install the required dependencies:
 
-** Create a .env file in the project root and add your**
+**Create a .env file in the project root and add your**
 - GOOGLE_API_KEY="your-google-api-key"
 
 ## Usage
